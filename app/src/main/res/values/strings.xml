@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AndroidIntroductionApp</string>
+    <string name="welcome_welcome">welcome__welcome</string>
+    <string name="welcome__btn_clicked">welcome__btn_clicked</string>
+    <string name="second_result_will_appear">Calculation result will appear here</string>
+    <string name="calculation_hint_calculation">Please enter the number..</string>
+    <string name="calculation_calculation">Calculate</string>
+    <string name="let_s_start">Let\'s Start</string>
+    <string name="welcome_lets_start">Let\'s Start</string>
+    <string name="Lets_start">Let\'s Start</string>
+    <string name="calculation__no_number_provided">Provide a number!</string>
+    <string name="welcome__lets_start">Let\'s Start</string>
+</resources>
