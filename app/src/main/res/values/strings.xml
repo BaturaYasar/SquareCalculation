@@ -10,4 +10,9 @@
     <string name="Lets_start">Let\'s Start</string>
     <string name="calculation__no_number_provided">Provide a number!</string>
     <string name="welcome__lets_start">Let\'s Start</string>
+    <string name="calculation__hint_calculation">CalculateHINT</string>
+    <string name="calculation__calculation">Calculate</string>
+    <string name="second__result_will_appear">Second Result</string>
+    <string name="calculation_result__recalculate">Calculation Result</string>
+    <string name="second_screen_title">ScreenTitle</string>
 </resources>
